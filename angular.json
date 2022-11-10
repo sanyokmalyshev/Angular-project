@@ -17,8 +17,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "baseHref": "Angular-project/",
-            "outputPath": "docs",
+            "baseHref": "https://sanyokmalyshev.github.io/Angular-project/",
+            "outputPath": "dist/angular-project",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
