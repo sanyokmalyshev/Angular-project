@@ -6,10 +6,5 @@ import { Component, EventEmitter, Output } from '@angular/core';
   styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent {
-  @Output() page = new EventEmitter<string>();
   collapsed = true;
-
-  onSelect(selectedPage: string) {
-    this.page.emit(selectedPage);
-  }
 }
