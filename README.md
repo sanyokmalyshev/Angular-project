@@ -1,7 +1,3 @@
-# Demo
-
-https://sanyokmalyshev.github.io/Angular-project/
-
 # Recipes Book
 ## Technologies used in the project
 - HTML5, CSS3, Sass (SCSS) 
